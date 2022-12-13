@@ -22,9 +22,6 @@ Ph.D. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University]
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30"/>
   </a>
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aayushchugh/vscode-material-icon-theme/main/icons/cuda.svg" alt="cuda" width="30" height="30"/>
-  </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/>
   </a>
