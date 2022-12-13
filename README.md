@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Siyu Yuan, and you can call me Gorain.
 
-<!-- Ph.D. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
+Ph.D. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
-### **Read my newest paper on Entity Typing** ***Generative Entity Typing with Curriculum Learning*** [here](https://arxiv.org/abs/2210.02914)!
+## **Read my newest paper on Entity Typing named** ***Generative Entity Typing with Curriculum Learning*** [here](https://arxiv.org/abs/2210.02914)!
 
 - 🔬 I’m interested in Knowledge generation and LLM prompt engineering.
-- 📫 Mail to me: syyuan [at] m [dot] fudan [dot] com
+- 📫 Mail to me: syyuan21@m.fudan.com
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=siyuyuan&style=flat&color=268f77" alt=""/> -->
@@ -13,7 +13,7 @@
 | <a href="https://github.com/siyuyuan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuyuan&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Siyu Yuan's Github Stats" /></a> | <a href="https://github.com/siyuyuan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuyuan&theme=default&layout=compact&hide_border=true&hide=JavaScript,HTML,CSS,SCSS,Jupyter%20Notebook,PHP" /></a> |
 | ------------- | ------------- |
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
