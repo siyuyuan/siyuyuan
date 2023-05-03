@@ -2,7 +2,7 @@
 
 Ph.D. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
-## **Read my newest paper on Entity Typing named** ***Generative Entity Typing with Curriculum Learning*** [here](https://arxiv.org/abs/2210.02914)!
+## **News: Two papers accepted to ACL 2023! **!
 
 - 🔬 I’m interested in Knowledge generation and LLM prompt engineering.
 - 📫 Mail to me: syyuan21@m.fudan.com
