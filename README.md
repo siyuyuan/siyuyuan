@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Siyu Yuan, and you can call me Gorain.
 
-Ph.D. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
+Ph.D. student at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
-## News: Two papers accepted to ACL 2023! One is _Coscript_ on constraint language planning, and the other is _KPCE_ on concept extraction through the lens of a Structural Causal Model.
+News: Two papers accepted to ACL 2023! One is _Coscript_ on constraint language planning, and the other is _KPCE_ on concept extraction through the lens of a Structural Causal Model.
 
 - 🔬 I’m interested in Knowledge generation and LLM prompt engineering.
 - 📫 Mail to me: syyuan21@m.fudan.com
