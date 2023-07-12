@@ -7,12 +7,6 @@ News: Two papers accepted to ACL 2023! One is _Coscript_ on constraint language 
 - 🔬 I’m interested in Knowledge generation and LLM prompt engineering.
 - 📫 Mail to me: syyuan21@m.fudan.com
 
-
-<!-- <img src="https://komarev.com/ghpvc/?username=siyuyuan&style=flat&color=268f77" alt=""/> -->
-
-| <a href="https://github.com/siyuyuan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuyuan&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Siyu Yuan's Github Stats" /></a> | <a href="https://github.com/siyuyuan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuyuan&theme=default&layout=compact&hide_border=true&hide=JavaScript,HTML,CSS,SCSS,Jupyter%20Notebook,PHP" /></a> |
-| ------------- | ------------- |
-
 ## 🛠️ Languages and Tools
 
 <div>
