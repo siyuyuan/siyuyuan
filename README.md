@@ -4,8 +4,8 @@ Ph.D. student at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](
 
 News: Two papers accepted to ACL 2023! One is _Coscript_ on constraint language planning, and the other is _KPCE_ on concept extraction through the lens of a Structural Causal Model.
 
-- 🔬 I’m interested in **Knowledge Generation** and **LLM Prompt Engineering**.
-- 📫 Mail to me: syyuan21@m.fudan.com
+- 🔬 I’m interested in **Cognitive Science & LLMs**.
+- 📫 Mail to me: syyuan21@m.fudan.edu.cn
 
 ## 🛠️ Languages and Tools
 
